@@ -1,6 +1,6 @@
 ---
 title: "Mi Ruta de Aprendizaje"
-date: 2022-04-007
+date: 2022-04-07
 description: 'Este será el segundo post que se publica'
 ---
 
