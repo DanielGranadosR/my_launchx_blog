@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>Mi Ruta de Aprendizaje</title>
+      <link>https://danielgranadosr.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielgranadosr.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>He stado haciendo el ejericio del onboarding y es muy interesante, veamos que sucede las siguiente semana, de todo lo que he aprendido me gusta específicamente el hecho de poder diseñar el estilo de una web desde 0 pero busco con ansias aprender más de JS</description>
+    </item>
+    
+    <item>
       <title>About me</title>
       <link>https://danielgranadosr.github.io/my_launchx_blog/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -25,15 +34,6 @@
       <description>Who am I Hola, aquí vas a leer un poco sobre mi 🤩
  Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit adfusique imis amplexus. Agmina per fabricator mittere Erymanthon habetque tot.
  Cineres Nile ipsa origine discurrunt adest Unde, et quem clausus, imo, virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur quis, digitis pedes.</description>
-    </item>
-    
-    <item>
-      <title>Mi Ruta de Aprendizaje</title>
-      <link>https://danielgranadosr.github.io/my_launchx_blog/posts/post_1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://danielgranadosr.github.io/my_launchx_blog/posts/post_1/</guid>
-      <description>He stado haciendo el ejericio del onboarding y es muy interesante, veamos que sucede las siguiente semana, de todo lo que he aprendido me gusta específicamente el hecho de poder diseñar el estilo de una web desde 0 pero busco con ansias aprender más de JS</description>
     </item>
     
   </channel>
